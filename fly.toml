@@ -1,4 +1,4 @@
-app = 'fly-panel'
+app = 'fly-panel-test'
 primary_region = 'ams'
 
 [http_service]
